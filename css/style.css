@@ -198,7 +198,7 @@ h3,
 
 .header_area .navbar-social li a:hover i,
 .header_area .navbar-social li span {
-    color: #21146a
+    color: #eeeeee
 }
 
 .header_area .menu_nav {
@@ -467,7 +467,7 @@ h3,
     }
 
     .header_area .navbar {
-        background: #412fb3
+        background: #eeeeee
     }
 
     .navbar-toggler[aria-expanded="false"] span:nth-child(2) {
@@ -994,7 +994,7 @@ h3,
 .card-feature__icon i,
 .card-feature__icon span {
     font-size: 30px;
-    color: #21146a
+    color: #eeeeee
 }
 
 .card-feature__title {
@@ -1127,7 +1127,7 @@ h3,
 }
 
 .card-pricing:hover .button {
-    background: #21146a;
+    background: #eeeeee;
     color: #fff
 }
 
@@ -1261,7 +1261,7 @@ h3,
 }
 
 .testimonial .owl-dots .owl-dot.active span {
-    background: #21146a
+    background: #eeeeee
 }
 
 .our_major_cause .owl-item {
@@ -1610,12 +1610,12 @@ h3,
 }
 
 .blog-banner-btn {
-    border: 2px solid #21146a;
+    border: 2px solid #eeeeee;
     padding: 10px 45px
 }
 
 .blog-banner-btn:hover {
-    background: #21146a;
+    background: #eeeeee;
     color: #fff
 }
 
@@ -1667,7 +1667,7 @@ h3,
 }
 
 .causes_slider .owl-dots .owl-dot.active {
-    background: #21146a
+    background: #eeeeee
 }
 
 .causes_item {
@@ -1701,7 +1701,7 @@ h3,
     position: absolute;
     right: -10px;
     bottom: 0px;
-    background: #21146a;
+    background: #eeeeee;
     color: #fff;
     padding: 0px 5px
 }
@@ -1719,7 +1719,7 @@ h3,
 }
 
 .causes_item .causes_text h4:hover {
-    color: #21146a
+    color: #eeeeee
 }
 
 .causes_item .causes_text p {
